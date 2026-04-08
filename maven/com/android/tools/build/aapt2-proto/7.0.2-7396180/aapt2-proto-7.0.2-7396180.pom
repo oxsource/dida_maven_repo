@@ -1,0 +1,6 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.android.tools.build</groupId>
+  <artifactId>aapt2-proto</artifactId>
+  <version>7.0.2-7396180</version>
+</project>

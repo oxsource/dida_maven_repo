@@ -1,0 +1,6 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>net.sf.jopt-simple</groupId>
+  <artifactId>jopt-simple</artifactId>
+  <version>4.9</version>
+</project>

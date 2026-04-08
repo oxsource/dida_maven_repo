@@ -1,0 +1,6 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.squareup.okio</groupId>
+  <artifactId>okio</artifactId>
+  <version>1.17.2</version>
+</project>

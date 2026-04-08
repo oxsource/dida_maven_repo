@@ -1,0 +1,6 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.jetbrains.intellij.deps</groupId>
+  <artifactId>trove4j</artifactId>
+  <version>1.0.20181211</version>
+</project>

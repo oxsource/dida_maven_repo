@@ -1,0 +1,6 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.google.android</groupId>
+  <artifactId>annotations</artifactId>
+  <version>4.1.1.4</version>
+</project>

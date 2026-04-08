@@ -1,0 +1,6 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.google.guava</groupId>
+  <artifactId>listenablefuture</artifactId>
+  <version>9999.0-empty-to-avoid-conflict-with-guava</version>
+</project>

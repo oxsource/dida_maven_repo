@@ -1,0 +1,6 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.greenrobot</groupId>
+  <artifactId>eventbus</artifactId>
+  <version>3.1.1</version>
+</project>

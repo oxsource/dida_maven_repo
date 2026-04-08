@@ -1,0 +1,6 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.android.tools.build.jetifier</groupId>
+  <artifactId>jetifier-processor</artifactId>
+  <version>1.0.0-beta09</version>
+</project>

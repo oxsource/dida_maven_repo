@@ -1,0 +1,6 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.google.protobuf</groupId>
+  <artifactId>protobuf-java-util</artifactId>
+  <version>3.10.0</version>
+</project>

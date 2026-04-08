@@ -1,0 +1,6 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.android.databinding</groupId>
+  <artifactId>baseLibrary</artifactId>
+  <version>7.0.2</version>
+</project>

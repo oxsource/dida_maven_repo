@@ -1,0 +1,6 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.greenrobot</groupId>
+  <artifactId>greenrobot-jdt</artifactId>
+  <version>3.20.0</version>
+</project>
