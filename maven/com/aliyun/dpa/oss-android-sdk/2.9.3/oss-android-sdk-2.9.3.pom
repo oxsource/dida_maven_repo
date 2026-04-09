@@ -3,4 +3,5 @@
   <groupId>com.aliyun.dpa</groupId>
   <artifactId>oss-android-sdk</artifactId>
   <version>2.9.3</version>
+  <packaging>aar</packaging>
 </project>

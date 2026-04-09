@@ -3,4 +3,5 @@
   <groupId>com.contrarywind</groupId>
   <artifactId>Android-PickerView</artifactId>
   <version>3.2.6</version>
+  <packaging>aar</packaging>
 </project>

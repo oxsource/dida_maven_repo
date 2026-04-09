@@ -3,4 +3,5 @@
   <groupId>q.rorbin</groupId>
   <artifactId>badgeview</artifactId>
   <version>1.1.2</version>
+  <packaging>aar</packaging>
 </project>
